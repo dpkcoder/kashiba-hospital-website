@@ -1,0 +1,272 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - 'link "📞 24×7 Emergency: 94844 87872" [ref=e6] [cursor=pointer]':
+        - /url: tel:+919484487872
+      - link "kashibahospital1010@gmail.com" [ref=e7] [cursor=pointer]:
+        - /url: mailto:kashibahospital1010@gmail.com
+    - navigation [ref=e8]:
+      - generic [ref=e10]:
+        - link "Kashiba Multispeciality Hospital logo Kashiba Multispeciality Hospital" [ref=e11] [cursor=pointer]:
+          - /url: "#home"
+          - img "Kashiba Multispeciality Hospital logo" [ref=e12]
+          - generic [ref=e13]:
+            - generic [ref=e14]: Kashiba
+            - generic [ref=e15]: Multispeciality Hospital
+        - generic [ref=e16]:
+          - link "Home" [ref=e17] [cursor=pointer]:
+            - /url: "#home"
+          - link "About" [ref=e18] [cursor=pointer]:
+            - /url: "#about"
+          - link "Facilities" [ref=e19] [cursor=pointer]:
+            - /url: "#facilities"
+          - link "Departments" [ref=e20] [cursor=pointer]:
+            - /url: "#departments"
+          - link "Doctors" [ref=e21] [cursor=pointer]:
+            - /url: "#doctors"
+          - link "Gallery" [ref=e22] [cursor=pointer]:
+            - /url: "#gallery"
+          - link "Branches" [ref=e23] [cursor=pointer]:
+            - /url: "#branches"
+          - link "Contact" [ref=e24] [cursor=pointer]:
+            - /url: "#contact"
+        - link "Call Now" [ref=e26] [cursor=pointer]:
+          - /url: tel:+919484487872
+  - generic [ref=e29]:
+    - img "Kashiba Multispeciality Hospital logo" [ref=e32]
+    - generic [ref=e33]: ✓ 24×7 Emergency Services Available
+    - heading "Kashiba Multispeciality Hospital" [level=1] [ref=e34]
+    - paragraph [ref=e35]: Advanced ICU & NICU Care | Compassionate Healthcare for Your Family
+    - generic [ref=e36]:
+      - link "Book Appointment" [ref=e37] [cursor=pointer]:
+        - /url: tel:+919484487872
+      - link "Our Services" [ref=e38] [cursor=pointer]:
+        - /url: "#facilities"
+  - generic [ref=e41]:
+    - generic [ref=e42]:
+      - img [ref=e45]
+      - heading "24×7 Emergency" [level=3] [ref=e47]
+      - paragraph [ref=e48]: Always ready to serve
+    - generic [ref=e49]:
+      - img [ref=e52]
+      - heading "Advanced ICU & NICU" [level=3] [ref=e54]
+      - paragraph [ref=e55]: State-of-the-art facilities
+    - generic [ref=e56]:
+      - img [ref=e59]
+      - heading "Experienced Specialists" [level=3] [ref=e64]
+      - paragraph [ref=e65]: Expert medical professionals
+    - generic [ref=e66]:
+      - img [ref=e69]
+      - heading "Cashless Mediclaim" [level=3] [ref=e71]
+      - paragraph [ref=e72]: Hassle-free treatment
+  - generic [ref=e74]:
+    - generic [ref=e75]:
+      - heading "Facilities Available at the Hospital" [level=2] [ref=e76]
+      - paragraph [ref=e77]: We offer comprehensive healthcare services with modern facilities
+    - generic [ref=e78]:
+      - generic [ref=e79]:
+        - img [ref=e82]
+        - heading "24×7 Emergency Medical Services" [level=3] [ref=e85]
+      - generic [ref=e86]:
+        - img [ref=e89]
+        - heading "General Ward, Semi-Special, Special & Deluxe Rooms" [level=3] [ref=e93]
+      - generic [ref=e94]:
+        - img [ref=e97]
+        - heading "Medical Store Facility" [level=3] [ref=e102]
+      - generic [ref=e103]:
+        - img [ref=e106]
+        - heading "Mediclaim & Cashless Treatment Facility" [level=3] [ref=e109]
+  - generic [ref=e111]:
+    - generic [ref=e112]:
+      - heading "Our Departments" [level=2] [ref=e113]
+      - paragraph [ref=e114]: Specialized care across multiple departments
+    - generic [ref=e115]:
+      - generic [ref=e116]:
+        - button "Paediatric Department" [ref=e117]:
+          - img [ref=e118]
+          - generic [ref=e121]: Paediatric Department
+        - button "Medicine Department" [ref=e122]:
+          - img [ref=e123]
+          - generic [ref=e127]: Medicine Department
+      - generic [ref=e129]:
+        - heading "Paediatric Department" [level=3] [ref=e130]
+        - paragraph [ref=e131]: Complete Child Care Centre
+        - list [ref=e132]:
+          - listitem [ref=e133]:
+            - generic [ref=e134]: ✓
+            - generic [ref=e135]: Comprehensive treatment for children from 0 to 18 years
+          - listitem [ref=e136]:
+            - generic [ref=e137]: ✓
+            - generic [ref=e138]: "Advanced NICU facilities for newborns: Oxygen Incubator, Open Care System, Resuscitation Pump, CPAP Machine, Dräger Babylog 8000 Ventilator"
+          - listitem [ref=e139]:
+            - generic [ref=e140]: ✓
+            - generic [ref=e141]: Phototherapy unit & LED Phototherapy for neonatal jaundice
+          - listitem [ref=e142]:
+            - generic [ref=e143]: ✓
+            - generic [ref=e144]: Advanced monitoring for premature and critically ill newborns
+          - listitem [ref=e145]:
+            - generic [ref=e146]: ✓
+            - generic [ref=e147]: "Treatment of childhood illnesses: Diarrhoea, Dehydration, Asthma, Pneumonia, Dengue, Malaria, Typhoid"
+          - listitem [ref=e148]:
+            - generic [ref=e149]: ✓
+            - generic [ref=e150]: Treatment of cough, cold, fever and common childhood diseases
+          - listitem [ref=e151]:
+            - generic [ref=e152]: ✓
+            - generic [ref=e153]: Dietary and nutritional guidance for newborns and children
+  - generic [ref=e155]:
+    - generic [ref=e156]:
+      - heading "Our Specialists" [level=2] [ref=e157]
+      - paragraph [ref=e158]: Expert doctors dedicated to your healthcare
+    - generic [ref=e159]:
+      - generic [ref=e160]:
+        - generic [ref=e163]: 👨‍⚕️
+        - generic [ref=e164]:
+          - heading "Dr. Mansukh Hadiya" [level=3] [ref=e165]
+          - paragraph [ref=e166]: M.D., I.D.C.C.M
+          - paragraph [ref=e167]: Consultant Physician & Critical Care Specialist
+      - generic [ref=e168]:
+        - generic [ref=e171]: 👨‍⚕️
+        - generic [ref=e172]:
+          - heading "Dr. Dinesh Kalsariya" [level=3] [ref=e173]
+          - paragraph [ref=e174]: M.D. (Paed)
+          - paragraph [ref=e175]: Consultant Paediatrician & Neonatologist
+  - generic [ref=e177]:
+    - generic [ref=e178]:
+      - heading "Our Hospital" [level=2] [ref=e179]
+      - paragraph [ref=e180]: State-of-the-art facilities and compassionate care
+    - generic [ref=e181]:
+      - button "Reception Reception" [ref=e182] [cursor=pointer]:
+        - img "Reception" [ref=e183]
+        - paragraph [ref=e186]: Reception
+      - button "Entrance Lobby Entrance Lobby" [ref=e187] [cursor=pointer]:
+        - img "Entrance Lobby" [ref=e188]
+        - paragraph [ref=e191]: Entrance Lobby
+      - button "ICU ICU" [ref=e192] [cursor=pointer]:
+        - img "ICU" [ref=e193]
+        - paragraph [ref=e196]: ICU
+      - button "NICU NICU" [ref=e197] [cursor=pointer]:
+        - img "NICU" [ref=e198]
+        - paragraph [ref=e201]: NICU
+      - button "General Ward General Ward" [ref=e202] [cursor=pointer]:
+        - img "General Ward" [ref=e203]
+        - paragraph [ref=e206]: General Ward
+      - button "Private Room Private Room" [ref=e207] [cursor=pointer]:
+        - img "Private Room" [ref=e208]
+        - paragraph [ref=e211]: Private Room
+      - button "Semi-Deluxe Room Semi-Deluxe Room" [ref=e212] [cursor=pointer]:
+        - img "Semi-Deluxe Room" [ref=e213]
+        - paragraph [ref=e216]: Semi-Deluxe Room
+      - button "Twin Sharing Room Twin Sharing Room" [ref=e217] [cursor=pointer]:
+        - img "Twin Sharing Room" [ref=e218]
+        - paragraph [ref=e221]: Twin Sharing Room
+      - button "Paediatric Department Paediatric Department" [ref=e222] [cursor=pointer]:
+        - img "Paediatric Department" [ref=e223]
+        - paragraph [ref=e226]: Paediatric Department
+      - button "Medicine Department Medicine Department" [ref=e227] [cursor=pointer]:
+        - img "Medicine Department" [ref=e228]
+        - paragraph [ref=e231]: Medicine Department
+      - button "Pharmacy Pharmacy" [ref=e232] [cursor=pointer]:
+        - img "Pharmacy" [ref=e233]
+        - paragraph [ref=e236]: Pharmacy
+      - button "Hospital Corridor Hospital Corridor" [ref=e237] [cursor=pointer]:
+        - img "Hospital Corridor" [ref=e238]
+        - paragraph [ref=e241]: Hospital Corridor
+  - generic [ref=e243]:
+    - generic [ref=e244]:
+      - heading "OPD Timings" [level=2] [ref=e245]
+      - paragraph [ref=e246]: Visit us during our operating hours
+    - generic [ref=e248]:
+      - generic [ref=e249]:
+        - img [ref=e250]
+        - generic [ref=e253]:
+          - heading "Monday to Saturday" [level=3] [ref=e254]
+          - paragraph [ref=e255]: "Morning: 10:00 AM – 1:00 PM"
+          - paragraph [ref=e256]: "Evening: 5:00 PM – 8:00 PM"
+      - generic [ref=e257]:
+        - img [ref=e258]
+        - generic [ref=e261]:
+          - heading "Sunday (By Appointment Only)" [level=3] [ref=e262]
+          - paragraph [ref=e263]: 10:00 AM – 1:00 PM
+      - generic [ref=e264]:
+        - paragraph [ref=e265]: ⚠️ 24×7 Emergency Services Available
+        - paragraph [ref=e266]: Emergency patients are attended at any time outside OPD hours.
+  - generic [ref=e268]:
+    - generic [ref=e269]:
+      - heading "Our Branches" [level=2] [ref=e270]
+      - paragraph [ref=e271]: Visit our locations across Gujarat
+    - generic [ref=e272]:
+      - generic [ref=e273]:
+        - generic [ref=e274]:
+          - img [ref=e275]
+          - heading "Kashiba Multispeciality Hospital – Kamrej (Main, ICU & NICU)" [level=3] [ref=e278]
+        - paragraph [ref=e279]: 2nd Floor, Astha Business Centre, Narmada Nagar, Near Harekrishna Bungalows, Canal Road, Kamrej.
+      - generic [ref=e280]:
+        - generic [ref=e281]:
+          - img [ref=e282]
+          - heading "Kashiba Multispeciality Hospital – Godadara" [level=3] [ref=e285]
+        - paragraph [ref=e286]: 4th Floor, Royal Square Complex, Mahendra Pratap Chowk, Dindoli–Godadara Road, Surat.
+      - generic [ref=e287]:
+        - generic [ref=e288]:
+          - img [ref=e289]
+          - heading "Kashiba Multispeciality Hospital – Rajula" [level=3] [ref=e292]
+        - paragraph [ref=e293]: Near Civil Hospital, Jafrabad Road, Rajula City.
+  - contentinfo [ref=e294]:
+    - generic [ref=e296]:
+      - generic [ref=e297]:
+        - img "Kashiba Multispeciality Hospital logo" [ref=e299]
+        - heading "Kashiba Multispeciality Hospital" [level=3] [ref=e300]
+        - paragraph [ref=e301]: Providing compassionate and advanced healthcare services to the community.
+      - generic [ref=e302]:
+        - heading "Quick Links" [level=4] [ref=e303]
+        - list [ref=e304]:
+          - listitem [ref=e305]:
+            - link "Home" [ref=e306] [cursor=pointer]:
+              - /url: "#home"
+          - listitem [ref=e307]:
+            - link "About" [ref=e308] [cursor=pointer]:
+              - /url: "#about"
+          - listitem [ref=e309]:
+            - link "Facilities" [ref=e310] [cursor=pointer]:
+              - /url: "#facilities"
+          - listitem [ref=e311]:
+            - link "Departments" [ref=e312] [cursor=pointer]:
+              - /url: "#departments"
+      - generic [ref=e313]:
+        - heading "More Links" [level=4] [ref=e314]
+        - list [ref=e315]:
+          - listitem [ref=e316]:
+            - link "Doctors" [ref=e317] [cursor=pointer]:
+              - /url: "#doctors"
+          - listitem [ref=e318]:
+            - link "Gallery" [ref=e319] [cursor=pointer]:
+              - /url: "#gallery"
+          - listitem [ref=e320]:
+            - link "Branches" [ref=e321] [cursor=pointer]:
+              - /url: "#branches"
+          - listitem [ref=e322]:
+            - link "Contact" [ref=e323] [cursor=pointer]:
+              - /url: "#contact"
+      - generic [ref=e324]:
+        - heading "Contact Info" [level=4] [ref=e325]
+        - generic [ref=e326]:
+          - generic [ref=e327]:
+            - img [ref=e328]
+            - generic [ref=e331]: 2nd Floor, Astha Business Centre, Narmada Nagar, Near Harekrishna Bungalows, Canal Road, Kamrej.
+          - generic [ref=e332]:
+            - img [ref=e333]
+            - link "94844 87872" [ref=e335] [cursor=pointer]:
+              - /url: tel:+919484487872
+          - generic [ref=e336]:
+            - img [ref=e337]
+            - link "kashibahospital1010@gmail.com" [ref=e340] [cursor=pointer]:
+              - /url: mailto:kashibahospital1010@gmail.com
+          - generic [ref=e341]:
+            - img [ref=e342]
+            - generic [ref=e345]: 24×7 Emergency Available
+          - link "View on Google Maps" [ref=e346] [cursor=pointer]:
+            - /url: https://maps.app.goo.gl/6bVEARAfMiYZqfAX7?g_st=ic
+            - text: View on Google Maps
+            - img [ref=e347]
+    - paragraph [ref=e353]: © 2026 Kashiba Multispeciality Hospital. All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e359] [cursor=pointer]:
+    - img [ref=e360]
