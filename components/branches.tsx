@@ -28,7 +28,7 @@ export default function Branches() {
             >
               <div className="flex items-start gap-3 mb-4">
                 <MapPin className="text-primary flex-shrink-0 mt-1" size={24} />
-                <h3 className="text-lg font-bold text-foreground">
+                <h3 className="text-lg font-semibold text-foreground">
                   {branch.name}
                 </h3>
               </div>

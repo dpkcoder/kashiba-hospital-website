@@ -29,11 +29,11 @@ export default function Hero() {
           <span className="text-sm font-semibold">✓ 24×7 Emergency Services Available</span>
         </div>
 
-        <h1 className="text-4xl md:text-6xl font-bold mb-6 text-balance">
+        <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-6 text-balance">
           {hospitalData.name}
         </h1>
 
-        <p className="text-xl md:text-2xl mb-8 text-blue-50 max-w-3xl mx-auto text-balance">
+        <p className="text-xl md:text-2xl mb-8 text-blue-50 max-w-3xl mx-auto leading-relaxed text-balance">
           {hospitalData.tagline}
         </p>
 
