@@ -42,14 +42,16 @@ export default function Navbar() {
           <div className="flex items-center justify-between h-16">
             {/* Logo */}
             <a href="#home" className="flex-shrink-0 flex items-center gap-3">
-              <Image
-                src="/logo.png"
-                alt="Kashiba Multispeciality Hospital logo"
-                width={207}
-                height={252}
-                priority
-                className="h-11 w-auto"
-              />
+              <div className="bg-white rounded-lg p-1.5 shadow-sm">
+                <Image
+                  src="/logo.png"
+                  alt="Kashiba Multispeciality Hospital logo"
+                  width={207}
+                  height={252}
+                  priority
+                  className="h-9 w-auto"
+                />
+              </div>
               <div className="font-bold text-lg md:text-xl leading-tight">
                 <div className="text-foreground">Kashiba</div>
                 <div className="text-xs text-muted-foreground">Multispeciality Hospital</div>
