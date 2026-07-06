@@ -82,11 +82,13 @@ export const hospitalData = {
       name: 'Dr. Mansukh Hadiya',
       qualification: 'M.D., I.D.C.C.M',
       designation: 'Consultant Physician & Critical Care Specialist',
+      image: '/doctors/mansukh-hadiya.jpg',
     },
     {
       name: 'Dr. Dinesh Kalsariya',
       qualification: 'M.D. (Paed)',
       designation: 'Consultant Paediatrician & Neonatologist',
+      image: '/doctors/dinesh-kalsariya.jpg',
     },
   ],
   

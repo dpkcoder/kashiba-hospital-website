@@ -16,17 +16,21 @@ export default function Doctors() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 max-w-3xl mx-auto">
           {hospitalData.doctors.map((doctor, index) => (
             <div
               key={index}
               className="bg-card rounded-lg overflow-hidden shadow-sm hover:shadow-lg transition border border-border"
             >
-              {/* Doctor Image Placeholder */}
-              <div className="relative h-64 md:h-80 bg-gradient-to-br from-primary/20 to-muted flex items-center justify-center">
-                <div className="w-32 h-32 md:w-40 md:h-40 rounded-full bg-muted flex items-center justify-center">
-                  <span className="text-muted-foreground text-6xl">👨‍⚕️</span>
-                </div>
+              {/* Doctor Image */}
+              <div className="relative aspect-[4/5] bg-muted">
+                <Image
+                  src={doctor.image}
+                  alt={doctor.name}
+                  fill
+                  sizes="(min-width: 768px) 50vw, 100vw"
+                  className="object-cover object-center"
+                />
               </div>
 
               {/* Doctor Info */}
